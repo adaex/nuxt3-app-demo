@@ -1,1 +1,1 @@
-self.importScripts('/nuxt3-app-demo/_server/index.mjs');
+self.importScripts('/_server/index.mjs');

@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     // preset options
     preset: 'browser',
   },
-  build: {
-    publicPath: '/nuxt3-app-demo/',
+  router: {
+    base: '/nuxt3-app-demo/',
   },
 })
